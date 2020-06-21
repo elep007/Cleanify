@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.zys:brokenview:1.0.3@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b582aa0763a28582b0b7455e0b1814e6/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b582aa0763a28582b0b7455e0b1814e6/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.zys/brokenview/1.0.3/cbb2f1c2870a74ebc9ce7c2b29ee1472cae22537/brokenview-1.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

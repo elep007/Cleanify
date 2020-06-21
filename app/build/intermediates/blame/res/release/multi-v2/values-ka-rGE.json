@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\working\\android\\cleanify\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-ka-rGE\\values-ka-rGE.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\kkk\\.gradle\\caches\\transforms-2\\files-2.1\\2637df8c8247df5ad3542c3f34e8c779\\res\\values-ka-rGE\\common_strings.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "170",
+                        "endColumns": "253",
+                        "endOffsets": "419"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "249",
+                        "endOffsets": "350"
+                    }
+                }
+            ]
+        }
+    ]
+}

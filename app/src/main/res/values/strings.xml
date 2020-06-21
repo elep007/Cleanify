@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cleanify</string>
+    <string name="action_settings">Settings</string>
+    <string name="interstitial">ca-app-pub-3114028572594978/5643340275</string>
+    <!--<string name="interstitial">ca-app-pub-3940256099942544/1033173712</string>-->
+    <!--<string name="interstitial">ca-app-pub-3114028572594978/5643340275</string>-->
+</resources>
